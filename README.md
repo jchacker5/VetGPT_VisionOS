@@ -1,6 +1,19 @@
+## AI Therapist for Veterans
 
-# Generative Wall Art with Apple Vision Pro
-A compact example project that demonstrates the core functionalities of visionOS, 
+### Overview
+This project aims to develop an AI-driven therapy assistant for veterans struggling with mental health issues post-service. Using Apple Vision Pro's spatial computing capabilities, we create an immersive environment for real-time conversations with an AI therapist. 
+
+### Technologies Used
+- **ChatGPT**: For text-based conversational therapy.
+- **ElevenLabs API**: For generating natural-sounding voices, enhancing the conversational experience.
+  
+### Features
+- **Immersive Conversations**: Spatial computing provides an immersive therapy experience.
+- **Real-Time Support**: Immediate, 24/7 support for veterans in need.
+- **Natural Conversations**: Integration of ElevenLabs API ensures the AI therapist sounds human-like, making the experience more natural and engaging.
+
+### How to Contribute
+We welcome contributions to improve the project. If you'd like to contribute, please fork the repository and create a pull request, or open an issue to discuss what you would like to add.
 
 Follow me on Twitter: [![Twitter](https://twitter.com/Joedefendre)]([(https://twitter.com/Joedefendre)) [![Twitter]([(https://twitter.com/Joedefendre))](https://twitter.com/Joedefendre))
 
